@@ -24,5 +24,18 @@
 * comp_1, comp_2, comp_3 -Информация о конкурентах или переменные, связанные с ценами, акциями или другими соответствующими факторами конкурентов.
 * ps1, ps2, ps3 - Оценка продукта или рейтинг, связанный с продуктами конкурентов.
 * fp1, fp2, fp3 - Расходы на перевозку или доставку, связанные с продукцией конкурентов.
-
-:http //github.com/Mamaeva-Bariyat/price_optimization_strategy/blob/main/pictures/Distribution%20of%20Total%20Price.png?raw=true
+## Распределение цен на продукцию:
+![Распределение цен на продукцию:](http://github.com/Mamaeva-Bariyat/price_optimization_strategy/blob/main/pictures/Distribution%20of%20Total%20Price.png?raw=true)
+## Распределение цен за единицу товара:
+![Распределение цен за единицу товара:](http://github.com/Mamaeva-Bariyat/price_optimization_strategy/blob/main/pictures/Box%20Plot%20of%20Unit%20Price.png?raw=true)
+## Cоотношение между количеством и общими ценами:
+![Cоотношение между количеством и общими ценами:](http://github.com/Mamaeva-Bariyat/price_optimization_strategy/blob/main/pictures/Quantity%20vs%20Total%20Price.png?raw=true)
+## Cредние,общие цены по категориям продуктов:
+![Cредние,общие цены по категориям продуктов:](http://github.com/Mamaeva-Bariyat/price_optimization_strategy/blob/main/pictures/Average%20Total%20Price%20by%20Product%20Category.png?raw=true)
+## Rаспределение общих цен по дням недели:
+![Rаспределение общих цен по дням недели](http://github.com/Mamaeva-Bariyat/price_optimization_strategy/blob/main/pictures/Box%20Plot%20of%20Total%20Price%20by%20Weekday.png?raw=true)
+## Cредняя разница в ценах конкурентов по категориям продуктов:
+![Cредняя разница в ценах конкурентов по категориям продуктов:](http://github.com/Mamaeva-Bariyat/price_optimization_strategy/blob/main/pictures/Average%20Competitor%20Price%20Difference%20by%20Product%20Category.png?raw=true)
+## Oбучим модель машинного обучения и получим график прогнозируемой и фактической розничной цены:
+![прогнозируемая и фактическая розничная цена:](http://github.com/Mamaeva-Bariyat/price_optimization_strategy/blob/main/pictures/Predicted%20vs.%20Actual%20Retail%20Price.png?raw=true)
+Конечная цель оптимизации розничных цен — назначить цену, которая поможет вам заработать больше всего денег и привлечь достаточно клиентов для покупки ваших продуктов. Это включает в себя использование данных и стратегий ценообразования для поиска правильной цены, которая максимизирует ваши продажи и прибыль, сохраняя при этом клиентов довольными.
