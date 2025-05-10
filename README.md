@@ -25,3 +25,4 @@
 * ps1, ps2, ps3 - Оценка продукта или рейтинг, связанный с продуктами конкурентов.
 * fp1, fp2, fp3 - Расходы на перевозку или доставку, связанные с продукцией конкурентов.
 
+:http //github.com/Mamaeva-Bariyat/price_optimization_strategy/blob/main/pictures/Distribution%20of%20Total%20Price.png?raw=true
